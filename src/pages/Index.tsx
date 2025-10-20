@@ -9,7 +9,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img 
-              src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/15f90a92-f638-46c2-bac9-40f345c9872d.jpg" 
+              src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/ab734423-3436-4377-a9c0-0e197b8c34c8.jpg" 
               alt="НКК Логотип" 
               className="h-12 w-12 object-contain"
             />
@@ -110,8 +110,8 @@ const Index = () => {
               <Card className="overflow-hidden hover:shadow-xl transition-shadow">
                 <div className="aspect-video relative overflow-hidden">
                   <img 
-                    src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/84a714a2-303d-4b77-9b6c-90fc84b00674.jpg"
-                    alt="Alma Lasers оборудование"
+                    src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/53743d9c-7595-4884-aae0-09b6fb54e641.jpg"
+                    alt="Harmony XL Pro"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                   />
                 </div>
@@ -128,8 +128,12 @@ const Index = () => {
               </Card>
 
               <Card className="overflow-hidden hover:shadow-xl transition-shadow">
-                <div className="aspect-video relative overflow-hidden bg-secondary flex items-center justify-center">
-                  <Icon name="Zap" size={64} className="text-primary opacity-20" />
+                <div className="aspect-video relative overflow-hidden">
+                  <img 
+                    src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/5c2f3864-ece5-470e-bf6b-1b7968c92e53.jpg"
+                    alt="Soprano Ice"
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                  />
                 </div>
                 <CardContent className="p-6">
                   <h4 className="text-xl font-semibold mb-3">Soprano Ice</h4>
@@ -144,8 +148,12 @@ const Index = () => {
               </Card>
 
               <Card className="overflow-hidden hover:shadow-xl transition-shadow">
-                <div className="aspect-video relative overflow-hidden bg-secondary flex items-center justify-center">
-                  <Icon name="Sparkles" size={64} className="text-primary opacity-20" />
+                <div className="aspect-video relative overflow-hidden">
+                  <img 
+                    src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/9086c375-589e-45e6-9c31-4e102a356c3e.jpg"
+                    alt="Accent Prime"
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                  />
                 </div>
                 <CardContent className="p-6">
                   <h4 className="text-xl font-semibold mb-3">Accent Prime</h4>
@@ -171,8 +179,8 @@ const Index = () => {
               <Card className="overflow-hidden hover:shadow-xl transition-shadow">
                 <div className="aspect-video relative overflow-hidden">
                   <img 
-                    src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/99d020fa-87d3-4886-bd5f-86f9646b04c0.jpg"
-                    alt="CLASSYS оборудование"
+                    src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/297eb04f-9940-4fda-9d88-21c699225cd0.jpg"
+                    alt="Ultraformer III"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                   />
                 </div>
@@ -189,8 +197,12 @@ const Index = () => {
               </Card>
 
               <Card className="overflow-hidden hover:shadow-xl transition-shadow">
-                <div className="aspect-video relative overflow-hidden bg-secondary flex items-center justify-center">
-                  <Icon name="Droplets" size={64} className="text-primary opacity-20" />
+                <div className="aspect-video relative overflow-hidden">
+                  <img 
+                    src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/4287821d-1d73-4071-8bab-473ea5367be6.jpg"
+                    alt="Clatuu Alpha"
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                  />
                 </div>
                 <CardContent className="p-6">
                   <h4 className="text-xl font-semibold mb-3">Clatuu Alpha</h4>
@@ -205,8 +217,12 @@ const Index = () => {
               </Card>
 
               <Card className="overflow-hidden hover:shadow-xl transition-shadow">
-                <div className="aspect-video relative overflow-hidden bg-secondary flex items-center justify-center">
-                  <Icon name="Activity" size={64} className="text-primary opacity-20" />
+                <div className="aspect-video relative overflow-hidden">
+                  <img 
+                    src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/e285b927-0810-4320-bfa0-c9d3d51dba9b.jpg"
+                    alt="Volnewmer"
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                  />
                 </div>
                 <CardContent className="p-6">
                   <h4 className="text-xl font-semibold mb-3">Volnewmer</h4>
@@ -333,7 +349,7 @@ const Index = () => {
             <div>
               <div className="flex items-center gap-3 mb-4">
                 <img 
-                  src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/15f90a92-f638-46c2-bac9-40f345c9872d.jpg" 
+                  src="https://cdn.poehali.dev/projects/151d1c48-2949-40e9-bb5c-936e2c08713e/files/ab734423-3436-4377-a9c0-0e197b8c34c8.jpg" 
                   alt="НКК" 
                   className="h-10 w-10 object-contain bg-white rounded p-1"
                 />
